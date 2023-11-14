@@ -1,6 +1,6 @@
-# US-election-2020-sentiment-analysis
+# US-election-2024-sentiment-analysis
 
-Predicting US Presidential Election 2020 Result Using Twitter Sentiment Analysis with Python
+Predicting US Presidential Election 2024 Result Using Twitter Sentiment Analysis with Python
 
 ## Dataset creation
 
